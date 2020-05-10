@@ -2,6 +2,18 @@
 
 A twitter clone built react redux bindings with functionalities to add a post, reply to some one's post, like a post.
 
+## Home
+
+![](https://raw.githubusercontent.com/yash-me/Twitter-clone/master/1.png)
+
+## New Tweet
+
+![](https://raw.githubusercontent.com/yash-me/Twitter-clone/master/2.png)
+
+## Reply to a Tweet 
+
+![](https://raw.githubusercontent.com/yash-me/Twitter-clone/master/3.png)
+
 ## Project Setup
 
 * clone the Project - `https://github.com/yash-me/Twitter-clone-.git`
