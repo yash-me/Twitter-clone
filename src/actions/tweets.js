@@ -9,7 +9,7 @@ function addTweet (tweet) {
 
     return{
 
-        tweet:ADD_TWEET,
+        type:ADD_TWEET,
         tweet
     }
 }
