@@ -12,6 +12,7 @@ A twitter clone built react redux bindings with functionalities to add a post, r
                            - `yarn add react-redux-loading`
                            - `yarn add react-router-dom`
                            - `yarn add redux-thunk`
+                           
 * start project - `npm start`
 
 
